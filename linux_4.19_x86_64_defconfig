@@ -1,13 +1,13 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/x86 4.19.282 Kernel Configuration
+# Linux/x86 4.19.286 Kernel Configuration
 #
 
 #
-# Compiler: gcc (Debian 8.3.0-6) 8.3.0
+# Compiler: gcc (Debian 12.2.0-14) 12.2.0
 #
 CONFIG_CC_IS_GCC=y
-CONFIG_GCC_VERSION=80300
+CONFIG_GCC_VERSION=120200
 CONFIG_CLANG_VERSION=0
 CONFIG_CC_HAS_ASM_GOTO=y
 CONFIG_IRQ_WORK=y
